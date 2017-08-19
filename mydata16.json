@@ -1,0 +1,15 @@
+{
+    "name": "Max",
+    "value": 787,
+    "children": [
+        {"name": "Max", "value": 50},
+        {"name": "Max", "value": 150},
+        {"name": "Max", "value": 20},
+        {"name": "Max", "value": 25},
+        {"name": "Max", "value": 78},
+        {"name": "Max", "value": 24},
+        {"name": "Max", "value": 210},
+        {"name": "Max", "value": 140},
+        {"name": "Max", "value": 90}
+    ]
+}

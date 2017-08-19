@@ -27,7 +27,7 @@
         d3.json("mydata16.json", function (data) {            
 
             var nodes = pack.nodes(data);
-console.log(nodes);
+
             var node = canvas.selectAll(".node")
                                 .data(nodes)
                                 .enter()
